@@ -23,3 +23,11 @@ from SentryEve import SentryEve
 
 app = SentryEve(__name__)
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Copyright
+
+This software is developed inside Standart AG, LLC, 2019
